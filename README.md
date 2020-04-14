@@ -11,7 +11,7 @@
 5. Crear un nuevo archivo "archivo2.txt"
 6. Añadirlo al proyecto
 7. Hacer commit
-7b. Ver el log del proyecto
+7. Ver el log del proyecto
 8. Crear una rama "pruebas"
 9. Cambiarse a la rama pruebas
 10. Añadir un texto al fichero archivo1.txt
